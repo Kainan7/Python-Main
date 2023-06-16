@@ -1,0 +1,8 @@
+GTA;90
+Joystick para PC;25
+Xbox One;1900
+Controles para Xbox;150
+GTA;90
+Joystick para PC;25
+Processador;500
+Battlefield;100
